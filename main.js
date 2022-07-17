@@ -40,8 +40,7 @@ app.on("ready", () =>
       readCsv(result.filePaths[0]);
     })
 );
-//
-//ghjfjhf
+
 /* read csv */
 function readCsv(path) {
   fs.createReadStream("./data/csv/" + name + ".csv")
