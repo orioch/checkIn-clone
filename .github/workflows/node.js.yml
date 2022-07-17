@@ -26,7 +26,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    
-    - run: cp checkIn-clone
+    - run: cd checkIn-clone
     - run: npm install
     - run: npm start
