@@ -1,0 +1,19 @@
+name: omer
+
+_____________
+
+Average ELHE: 112.8844537815126
+Average IAS: 100.0436974789916
+ELHE Alert exeptions:
+ 00:31:25.500- 00:31:26.000 (0.5 sec)
+ 00:32:06.500- 00:32:10.750 (4.25 sec)
+ 00:32:11.375- 00:32:11.625 (0.25 sec)
+ 00:33:19.875- 00:33:21.125 (1.25 sec)
+ 00:34:11.750- 00:34:14.375 (2.625 sec)
+ 00:34:16.625- 00:34:27.125 (10.5 sec)
+ 00:35:51.000- 00:35:51.875 (0.875 sec)
+ELHE Exit exeptions:
+Standard Deviation ELHE: 31.928749622131157
+Standard Deviation IAS: 7.743022216895597
+
+Time from rescue to border cross: 00:04:57Minimum distance from threat point:1744.565530958408

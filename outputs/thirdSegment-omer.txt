@@ -1,0 +1,23 @@
+name: omer
+
+
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+ 00:30:02.000- 00:30:08.750 (6.75 sec)
+Yellow-Distance exeptions:
+ 00:29:59.875- 00:30:11.250 (11.375 sec)
+_____________
+
+Average ELHE: 124.4585152838428
+Average IAS: 97.43652173913044
+Average Distance (Blue): 276.0741160012766
+Average Distance (Yellow): 312.67336683986963
+Average Distance (All): 294.3737414205731
+_____________
+
+Minimum distance from threat point:731.0322874616401
+Minimum distance from end point:124.83230275542914
+IAS at end point: 97
+Time from border cross to rescue:00:05:05

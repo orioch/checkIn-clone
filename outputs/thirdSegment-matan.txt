@@ -1,0 +1,23 @@
+name: matan
+
+
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+ 00:26:38.125- 00:26:55.875 (17.75 sec)
+Yellow-Distance exeptions:
+ 00:26:29.750- 00:27:05.250 (35.5 sec)
+_____________
+
+Average ELHE: 75.31403940886699
+Average IAS: 67.08312807881774
+Average Distance (Blue): 234.99766718444033
+Average Distance (Yellow): 283.51943916217675
+Average Distance (All): 259.25855317330854
+_____________
+
+Minimum distance from threat point:987.0667241757324
+Minimum distance from end point:37.896118969365055
+IAS at end point: 93
+Time from border cross to rescue:00:06:24

@@ -1,0 +1,16 @@
+name: nadav
+
+_____________
+
+Average ELHE: 104.08953229398664
+Average IAS: 76.54164810690423
+ELHE Alert exeptions:
+ 00:31:28.500- 00:31:34.625 (6.125 sec)
+ 00:35:27.500- 00:35:31.500 (4 sec)
+ 00:35:36.500- 00:35:43.500 (7 sec)
+ 00:35:55.250- 00:35:59.750 (4.5 sec)
+ELHE Exit exeptions:
+Standard Deviation ELHE: 35.183989854726676
+Standard Deviation IAS: 14.638530417526782
+
+Time from rescue to border cross: 00:04:40Minimum distance from threat point:310.6050048075805

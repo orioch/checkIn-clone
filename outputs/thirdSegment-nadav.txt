@@ -1,0 +1,23 @@
+name: nadav
+
+
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+ 00:30:04.000- 00:30:49.500 (45.5 sec)
+Yellow-Distance exeptions:
+ 00:30:00.375- 00:31:20.250 (79.875 sec)
+_____________
+
+Average ELHE: 122.84615384615384
+Average IAS: 101.21208791208791
+Average Distance (Blue): 545.3375971502096
+Average Distance (Yellow): 785.3789256875975
+Average Distance (All): 665.3582614189036
+_____________
+
+Minimum distance from threat point:1150.305733377579
+Minimum distance from end point:472.6612227256621
+IAS at end point: 85
+Time from border cross to rescue:00:04:37

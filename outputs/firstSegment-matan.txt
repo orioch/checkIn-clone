@@ -1,0 +1,23 @@
+name: matan
+
+Entry-Point distance: 2091.757634144071
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+ 00:19:58.125- 00:20:11.750 (13.625 sec)
+ 00:20:28.000- 00:20:32.500 (4.5 sec)
+Yellow-Distance exeptions:
+ 00:19:35.000- 00:19:37.625 (2.625 sec)
+ 00:19:56.125- 00:20:16.625 (20.5 sec)
+ 00:20:25.625- 00:20:36.375 (10.75 sec)
+_____________
+
+Average ELHE: 201.28400954653938
+Average IAS: 114.09427207637232
+Average Distance (Blue): 270.72519341182505
+Average Distance (Yellow): 377.5094706085654
+Average Distance (All): 324.11733201019524
+Standard Deviation ELHE: 43.23353916790989
+Standard Deviation IAS: 8.994797787533802
+Average RMS Distance: 270.72519341182505

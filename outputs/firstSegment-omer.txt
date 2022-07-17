@@ -1,0 +1,18 @@
+name: omer
+
+Entry-Point distance: 492.17171800094326
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+Yellow-Distance exeptions:
+_____________
+
+Average ELHE: 140.20253164556962
+Average IAS: 100.9817158931083
+Average Distance (Blue): 136.51838097805384
+Average Distance (Yellow): 143.1072432354203
+Average Distance (All): 139.81281210673706
+Standard Deviation ELHE: 42.24969037483466
+Standard Deviation IAS: 4.078650514981919
+Average RMS Distance: 136.51838097805384

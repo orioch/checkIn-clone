@@ -1,0 +1,20 @@
+name: nadav
+
+Entry-Point distance: 497.0764528721915
+_____________
+
+ELHE exeptions:
+Blue-Distance exeptions:
+ 00:23:45.875- 00:23:54.750 (8.875 sec)
+Yellow-Distance exeptions:
+ 00:23:40.125- 00:23:58.125 (18 sec)
+_____________
+
+Average ELHE: 113.36742857142858
+Average IAS: 91.06457142857143
+Average Distance (Blue): 189.45898858952114
+Average Distance (Yellow): 188.64090764374157
+Average Distance (All): 189.04994811663136
+Standard Deviation ELHE: 22.182885854106715
+Standard Deviation IAS: 5.321208424976504
+Average RMS Distance: 189.45898858952114

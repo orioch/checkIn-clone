@@ -1,0 +1,22 @@
+Second Segment
+
+Entry-Point distance: 152.4607356859206
+_____________
+
+ELHE Alert exeptions:
+ 00:21:39.625- 00:22:08.875 (29.25 sec)
+ 00:22:09.625- 00:22:13.000 (3.375 sec)
+ELHE Exit exeptions:
+Blue-Distance exeptions:
+Yellow-Distance exeptions:
+ 00:21:46.750- 00:21:50.875 (4.125 sec)
+_____________
+
+Average ELHE: 107.26859504132231
+Average IAS: 78.39393939393939
+Average Distance (Blue): 102.9113520011424
+Average Distance (Yellow): 141.87030835823347
+Average Distance (All): 122.39083017968794
+Standard Deviation ELHE: 76.15318786494139
+Standard Deviation IAS: 16.130679038535902
+Average RMS Distance: 102.9113520011424

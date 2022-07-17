@@ -1,0 +1,23 @@
+#loading {
+  display: block;
+}
+
+.loading-animation {
+  position: absolute;
+  width: 39vw;
+  left: 29vw;
+  top: 7vh;
+}
+
+.loading-text {
+  position: absolute;
+  left: 41.1vw;
+  top: 56vh;
+  font-size: 5vw;
+  font-family: sans-serif;
+}
+
+.chart-container {
+  width: 95vh;
+  height: 95vh;
+}
